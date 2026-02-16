@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am a second year student at the faculty of Automatic Control and Computer Science.
+I am a third year student at the faculty of Automatic Control and Computer Science.
 
 <!--
 **alexandrastroiu/alexandrastroiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
